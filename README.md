@@ -1,8 +1,9 @@
 # ZJP
 ### Zaawansowane Języki Programowania
 
-|  | Ruby |
+| Ruby |
 | ------ | ------ |
-| Cloc | https://github.com/AlDanial/cloc |
-| Flog | http://ruby.sadi.st/Flog.html |
+| | |
+| Cloc | Count Lines of Code | https://github.com/AlDanial/cloc |
+| Flog |  | http://ruby.sadi.st/Flog.html |
 | Flay | http://ruby.sadi.st/Flay.html |
