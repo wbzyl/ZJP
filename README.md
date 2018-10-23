@@ -1,7 +1,7 @@
 # ZJP
 ### Zaawansowane Języki Programowania
 
-| | Ruby | |
+| Ruby | | |
 | ------ | ------ | ------ |
 | Cloc | Count Lines of Code | https://github.com/AlDanial/cloc |
 | Flog | ABC complexity | http://ruby.sadi.st/Flog.html |
