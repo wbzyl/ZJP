@@ -8,4 +8,4 @@
 | Flay | structural similarities | http://ruby.sadi.st/Flay.html | 0.0 |
 
 ### Code : [badcode.rb](https://gist.github.com/klippx/bc93c15bd26b47ae5990/)
-### Flog scores : [badcode.adoc]()
+### Flog score : [badcode.adoc](https://github.com/wdziurdzia/ZJP/blob/master/badcode.adoc)
