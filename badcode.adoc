@@ -2,7 +2,7 @@
 ```ruby
 def diagnoses_belongs_to_me                                             #28.8
     diagnoses_ids =                                                     #1.0+
-    rows_array = form.rows.to_a[0...self.position - 1].reverse          #1.0+1.8+1.6+1.4+0.2+1.6+1.4+0.2+1.0+
+    rows_array = [red]#form#.[blue]#rows#.to_a[0...self.position - 1].reverse          #1.0+1.8+1.6+1.4+0.2+1.6+1.4+0.2+1.0+
     rows_array.each do |r|                                              #1.0+
       next if r.id == self.id                                           #8.3/3+1.4+1.2+1.4+
       break if r.kind_of?(Journal::FormRow::ItemRow) or (r.kind_of?(Journal::FormRow::LabSampleRow) and r.billing_record_rows.any?)   #8.3/3+4.0/3+4.0/3+1.6+1.4+
